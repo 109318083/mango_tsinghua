@@ -2,6 +2,10 @@
 ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083 created by GitHub Classroom
 
 
+####Rank####
+![image](https://github.com/MachineLearningNTUT/ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083/blob/main/截圖%202021-01-17%20上午3.57.38.png)
+
+
 <h2>1.做法說明</h2>
  
 * 訓練前先進行資料處理 : baseline01.py
