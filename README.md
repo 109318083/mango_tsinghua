@@ -16,6 +16,8 @@ ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083 created by GitHub Classr
 * 於nn03.ipynb
   
 ![image](https://github.com/MachineLearningNTUT/ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083/blob/main/M1.png)
+
+
 ![image](https://github.com/MachineLearningNTUT/ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083/blob/main/M1_2.png)
 <h2>4.如何改進？</h2>
 可能model還需要再進行調整或者是修改層數
