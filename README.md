@@ -3,7 +3,9 @@ ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083 created by GitHub Classr
 
 
 <h2>1.做法說明</h2>
-* 訓練前先進行資料處理
+ 
+* 訓練前先進行資料處理 : baseline01.py
+*
 
 
 
