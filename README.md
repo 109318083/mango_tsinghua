@@ -15,7 +15,7 @@ ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083 created by GitHub Classr
 <h2>3.畫圖做結果分析</h2>
 
 
-* Mode1:
+* Model1:
 
 
 ![image](https://github.com/MachineLearningNTUT/ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083/blob/main/M1.png)
@@ -24,10 +24,12 @@ ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083 created by GitHub Classr
 ![image](https://github.com/MachineLearningNTUT/ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083/blob/main/M1_2.png)
 
 
-* Mode2:
+* Model2:
 
 
 ![image](https://github.com/MachineLearningNTUT/ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083/blob/main/M2.png)
+
+
 ![image](https://github.com/MachineLearningNTUT/ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083/blob/main/M2_2.png)
 
 
