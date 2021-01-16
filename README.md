@@ -15,14 +15,7 @@ ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083 created by GitHub Classr
 <h2>3.畫圖做結果分析</h2>
 * 於nn03.ipynb
   
-  
-  
-    def transform(listdir,label,lenSIZE):
-<h2>4.討論預測值誤差很大的，是怎麼回事？</h2>
-* 可能魔星還需要再進行調整    
-    def transform(listdir,label,lenSIZE):
-   
+ 
 
-<h2>5.如何改進？</h2>
-
-    如果private 預測下降表示模型可再繼續疊加或者改變參數權重
+<h2>4.如何改進？</h2>
+可能model還需要再進行調整或者是修改層數
