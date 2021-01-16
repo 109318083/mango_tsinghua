@@ -14,6 +14,7 @@ ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083 created by GitHub Classr
 
 <h2>3.畫圖做結果分析</h2>
 * 於nn03.ipynb
+
 * Mode1:
 
 
