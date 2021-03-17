@@ -1,5 +1,4 @@
-# ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083
-ai-wen-mang-guo-bu-liang-pin-fen-lei-jing-sai-109318083 created by GitHub Classroom
+
 
 
 ####Rank####
